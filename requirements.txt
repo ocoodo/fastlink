@@ -1,0 +1,7 @@
+uvicorn
+fastapi[standard]
+
+sqlalchemy
+aiosqlite
+
+hashids
